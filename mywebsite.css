@@ -1,0 +1,92 @@
+#main-header {
+   text-align:center;
+   background-color:green;
+   color:gold;
+   padding:10px;
+   margin-top: -10px;
+   margin-left: -10px;
+   margin-right: -10px;
+   /*border-radius: 15px*/
+}
+
+body {
+   /* background: lightgrey; */
+   font-family: tahoma;
+}
+
+#navbar {
+   background-color: gold;
+   color: blue; /* #fff */
+   padding-top: 5px;
+   padding-bottom: 5px;
+   padding-left: 50px;
+   padding-right: 10px;
+   margin-left: -10px;
+   margin-right: -10px;
+}
+
+#navbar ul {
+   padding:0;
+   list-style: none;
+}
+
+#navbar li {
+   display: inline;
+}
+
+#navbar a {
+   color: #fff
+   text-decoration: none;
+   font-size: 18px;
+   padding-right: 15px;
+}
+
+#power {
+   text-align: center;
+   font-size: 18px;
+}
+
+.box1 {
+   color: white;
+   background-color: red;
+   text-align: center;
+   font-size: 18px;
+   border-radius: 15px;
+   margin: 0px 450px 5px 450px;
+
+   /*margin-left: -10px;
+   margin-right: -10px;*/
+
+   /* comments are written like this in CSS*/
+   /*text-transform: uppercase;*/
+}
+
+.box2 {
+/*
+   border: 5px green solid;
+   padding: 5px
+*/
+}
+
+a {
+   color: green;
+   /*text-decoration:none;*/
+}
+
+a:hover {
+   color: red;
+}
+
+.button {
+   
+}
+
+.games ul {
+   list-style: none;
+}
+
+.memes {
+   color: green;
+}
+
+
